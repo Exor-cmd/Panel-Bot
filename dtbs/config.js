@@ -21,9 +21,9 @@ global.autoviewstatus = process.env.autoviewstatus || "TRUE"
 global.linkgc = 'https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e'
 global.delayjpm = 3500
 //Panel
-global.domain = '' // your admin panel domian
-global.apikey = '' // Your admin panel apikey
-global.capikey = '' // Your admin panel capikey
+global.domain = 'ptlc_OpksPdHpUtbVb5D49xHXvJx02bZV5mIHhnAfgUAltGo' // your admin panel domian
+global.apikey = 'ptlc_OpksPdHpUtbVb5D49xHXvJx02bZV5mIHhnAfgUAltGo' // Your admin panel apikey
+global.capikey = 'ptlc_OpksPdHpUtbVb5D49xHXvJx02bZV5mIHhnAfgUAltGo' // Your admin panel capikey
 global.egg = '15' // 
 global.location = '1' // 
 global.thumbnailpanel = 'https://i.imgur.com/N1zWDRi.jpeg'
